@@ -1,0 +1,18 @@
+{
+  "biomarker_type": "total_cholesterol",
+  "estimator_type": "ensemble",
+  "timestamp": "2025-05-11T20:36:24.995424",
+  "feature_count": 114,
+  "top_10_features": [
+    "green_kurtosis",
+    "red_resp_power",
+    "nir_valley_std",
+    "green_red_amplitude_ratio",
+    "green_skewness",
+    "nir_d2_mean",
+    "green_d2_peak_mean",
+    "nir_skewness",
+    "green_red_d2_ratio",
+    "green_cardiac_high_power"
+  ]
+}
